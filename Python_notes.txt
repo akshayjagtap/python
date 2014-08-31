@@ -1,0 +1,13 @@
+You dont need to declare functions in python like in C.
+
+You just have to define whenever you want like this:
+	def functionName (parameters,arguments):
+
+Python functions do not specify the datatype of their return value.
+
+They dont even specify if they return a value. Every Python
+function returns a value; if the function ever executes a return statement, it will return that value, otherwise
+it will return None, the Python null value 
+
+In python you never specify the data type of anything. It keeps track of data types on its own depending on the value that you assign.
+
